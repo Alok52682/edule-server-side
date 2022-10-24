@@ -1,0 +1,242 @@
+[
+    {
+        "id": "1",
+        "category_id": "2",
+        "heading": "Microsoft Excel",
+        "price": "126",
+        "instructor": "Jason Williams",
+        "instructor_avater": "https://i.ibb.co/Dbqj2jR/images-q-tbn-ANd9-Gc-Rf4f-XK1-KQsi2-UIMvdv-K43q-Kilas3m9v-HPKOg-usqp-CAU.jpg",
+        "about": {
+            "point": "4",
+            "people": "4587"
+        },
+        "course_banner": "https://i.ibb.co/BG8TJ3d/corporify-do-not-use-excel.jpg",
+        "curriculum": "Complete complex tasks quickly by learning Microsoft Excel's basic to advanced functions formulas tips and tricks.From basic data entry to advanced calculation to data analysis Analyzing worksheet data through Excel and saving time using advanced Excel formulas, data filters, charting and other features Increase productivity in office work or study by learning easy use of Microsoft Excel's advanced functions",
+        "description": "Struggling to keep track of thousands of office projects or work? Time-consuming tasks can be done very easily by learning the functions, formulas, tips and tricks of Microsoft Excel in academic or professional life. Currently, every organization's work depends on Microsoft Excel, so once you learn Excel well, you will be ahead in your career. So Edule has come up with “Microsoft Excel” course to keep you ahead in the job market by teaching you all the details of Microsoft Excel"
+    },
+    {
+        "id": "2",
+        "category_id": "2",
+        "heading": "SEO Course for Beginners",
+        "price": "154",
+        "instructor": "Abraham Luise",
+        "instructor_avater": "https://i.ibb.co/3FyGH9g/images-q-tbn-ANd9-Gc-Rreh9-Fwfj6m-P6s9-CINDCpf-UXmi6-Or-RXJo-D8f-FI7-BV01mzbb-C1-Fh-W5-MLGQZYg-H9-PJ.jpg",
+        "about": {
+            "point": "4.3",
+            "people": "4597"
+        },
+        "course_banner": "https://i.ibb.co/XZHTnXw/webseo-search-engine-optimization-concept-with-magnifying-glass-vector-185038-484.jpg",
+        "curriculum": "SEO Basics, Search Engines, Domain-Hosting, Keyword Research, Onpage SEO, Offpage SEO Using various SEO tools including Google Search Console Industry-wide SEO practices through various project-based work SEO Learn Search Engines, Domain-Hosting, Keyword Research, Onpage SEO, Offpage SEO",
+        "description": "It is possible to increase a website's organic traffic from Google search several times only through SEO or Search Engine Optimization. As there are numerous websites on a particular topic, only those websites that follow proper SEO practices will dominate Google's search engine. Since most people do not visit the second page of Google search results, it is necessary to optimize the website according to the rules of SEO. SEO experts are in high demand among website owners in this era of competition."
+    },
+    {
+        "id": "3",
+        "category_id": "2",
+        "heading": "Cartoon Animation",
+        "price": "154",
+        "instructor": "Alex Ambrose",
+        "instructor_avater": "https://i.ibb.co/60J2Kmr/images-q-tbn-ANd9-Gc-TZj-DA5uxzz-OOu2r-Dy-OM2-Lm7y-SH2-A8d-Nlje-YJs-S7-Teho1kac8-Gycx-Hj-Wtw-O6t-Ar.jpg",
+        "about": {
+            "point": "4.5",
+            "people": "5597"
+        },
+        "course_banner": "https://i.ibb.co/cTdncZL/images-q-tbn-ANd9-Gc-S5k6xp6fro-Quh6-PNv0yccf-ETw-IJ-e21o-XIqw-usqp-CAU.jpg",
+        "curriculum": "From Basics to Important Rules of Cartoon Animation Creating animations using Adobe Animate Basic sound designing including blocking, timing, spacing using Audacity Video",
+        "description": "Animation is a very interesting subject for those who do crochet. What if you knew how to bring your drawings to life using animation? But since most of the online tutorials for creating animation are in English, many people give up even after starting to learn.On the other hand, offline courses are expensive and out of reach for many. Again, many important things remain unknown to us due to not teaching step by step. So, Edule has come up with 'Cartoon Animation' course to eliminate these problems for new animators."
+    },
+    {
+        "id": "4",
+        "category_id": "2",
+        "heading": "Robotics for Beginners",
+        "price": "145",
+        "instructor": "Katy Perry",
+        "instructor_avater": "https://i.ibb.co/NtzdWxg/profile-square.jpg",
+        "about": {
+            "point": "4.8",
+            "people": "7597"
+        },
+        "course_banner": "https://i.ibb.co/LhdjDHN/B-tech-in-robotics-engineeirng.webp",
+        "curriculum": "Everything you need to get started in robotics.Techniques to easily master all the complexities of robots and robotics.How to apply scientific and mathematical concepts in different real life situations.",
+        "description": "In today's technology-driven world, preparing yourself for the future is more important than ever. If you are wondering how to learn robotics and enter the world of robotics, Edule has brought you the 'Robotics for Beginners' course. This course will make your learning journey in the robotics and robotics industry easy and lively.You must be thinking that it is not possible for everyone to enter the robotics field. But if you learn it right from the very basics, you too can work with robotics. By taking this course, you will not only acquire problem solving skills, but also acquire the scientific and mathematical concepts required for robotics."
+    },
+    {
+        "id": "5",
+        "category_id": "2",
+        "heading": "Motion Graphics in After Effects",
+        "price": "137",
+        "instructor": "Danilo Perira",
+        "instructor_avater": "https://i.ibb.co/QDsPvK3/images-q-tbn-ANd9-Gc-TSrd-B8r-Rg-A1qgkw0ckc-Trh-Ia0kp-V2-ILvb-MWg-usqp-CAU.jpg",
+        "about": {
+            "point": "4.6",
+            "people": "4767"
+        },
+        "course_banner": "https://i.ibb.co/84kzwWJ/maxresdefault.jpg",
+        "curriculum": "Basic to intermediate level work using Adobe After Effects.How to do logo animations, character animations, plugins, motion tracks, etc.Basics of video effects and 2D or 3D animation.Use of green screen and creation of intro and outro",
+        "description": "Motion graphics doesn't just mean large-scale works like Disney or Pixar's animated movies. The title animation that we see before the start of a drama or movie is also a kind of motion graphics work. Motion graphics work is growing in tandem with the ever-increasing video content across the Internet. And with that, the demand for a motion graphics designer is increasing.Many are afraid to learn motion graphics work as it is a somewhat advanced level skill. Many are overwhelmed by the interface of video software. But fortunately, learning this skill with difficulty will not fail at all. Harder skills like motion graphics are less competitive and pay more because most people want to learn the easier skills."
+    },
+    {
+        "id": "6",
+        "category_id": "2",
+        "heading": "Web Design",
+        "price": "178",
+        "instructor": "Anna jonson",
+        "instructor_avater": "https://i.ibb.co/vHpGD33/reed-profile-square.jpg",
+        "about": {
+            "point": "4.7",
+            "people": "6767"
+        },
+        "course_banner": "https://i.ibb.co/VmZRT6T/Web-Designing-Course-Syllabus.jpg",
+        "curriculum": "Good understanding of website development planning, designing and coding,Use of HTML and CSS languages,Creating website layouts and templates,The process of web hosting,Responsive and interactive website design,How to Create a User Friendly Website, Responsive and interactive website design and User-friendly website design",
+        "description": "Those who keep an eye on the world of technology must know how much a person who knows how to design a website is valued these days. In this age of technology, it has become essential for every organization to have a website. And so, the demand for skilled web designers is constantly increasing.Web design is the act of creating a template of how a website will look. This design should not only be visually pleasing but also functional at the same time. A professional web designer must have two major skills programming and design sense. There are also many more detailed skills."
+    },
+    {
+        "id": "7",
+        "category_id": "1",
+        "heading": "Programming for kids",
+        "price": "170",
+        "instructor": "Rosey",
+        "instructor_avater": "https://i.ibb.co/5W9HshP/female-user-profile-avatar-is-woman-character-screen-saver-with-emotions-505620-617.jpg",
+        "about": {
+            "point": "4.7",
+            "people": "6767"
+        },
+        "course_banner": "https://resources.codingal.com/hubfs/hero%20image.png",
+        "curriculum": "An easy way to learn the intricacies of Javascript, HTML and CSS.Use of various functions, variables and logic blocks to build apps.Creating fun apps like adventure apps, timer apps and paint apps.The use of animation in game development and how to create games like Space Shooter and Gold Rush.How to effortlessly design an inventory tracker and social media site using HTML and CSS.",
+        "description": "In this age of information technology, it is very important to teach children coding or programming from an early stage, which is done in most countries of the developed world. Computer programming will teach your child a new mathematical language, which will encourage creativity and innovation, strengthen the foundation of mathematics and teach them to implement decisions in a well-planned way.But typing the word 'programming' on the internet brings up a lot of information, which makes it quite difficult to find the right direction. So Edule brings 'Programming For Kids' course to teach your child programming in a fun way!"
+    },
+    {
+        "id": "14",
+        "category_id": "1",
+        "heading": "Beautiful and fast English handwriting",
+        "price": "190",
+        "instructor": "Moon",
+        "instructor_avater": "https://i.ibb.co/5W9HshP/female-user-profile-avatar-is-woman-character-screen-saver-with-emotions-505620-617.jpg",
+        "about": {
+            "point": "4.9",
+            "people": "6767"
+        },
+        "course_banner": "https://images.ctfassets.net/p0qf7j048i0q/28kDJF4gW3FcWCsJB9EVTa/4756e839ff87b84a09edc5a0d0836606/G81714998.jpg",
+        "curriculum": "Quick tips to improve your English handwriting.English lowercase letters from a to z.English capitalization rules from A to Z.Rules for forming words using the English alphabet.Strategies for Mastering English Cursive Handwriting",
+        "description": "Are you worried about your child's English handwriting? Looking for an easy solution on how to improve your child's handwriting? Getting complaints from school for English handwriting?Just as good handwriting has a good impact on exam papers, good and fast handwriting gives a different dimension to your personality. To improve your child's English handwriting in a simple and playful way, Edule brings you the 'Beautiful and Fast English Handwriting' course!"
+    },
+    {
+        "id": "8",
+        "category_id": "1",
+        "heading": "Spoken English for Kids",
+        "price": "180",
+        "instructor": "Jack",
+        "instructor_avater": "https://i.ibb.co/5W9HshP/female-user-profile-avatar-is-woman-character-screen-saver-with-emotions-505620-617.jpg",
+        "about": {
+            "point": "4.6",
+            "people": "6767"
+        },
+        "course_banner": "https://tv-english.club/wp-content/uploads/2015/01/english-for-kids-online.jpg",
+        "curriculum": "Methods to master and improve conversational skills in English.Speaking English with teachers, friends, and family members in everyday life.Correct pronunciation of various familiar and unfamiliar English words.In addition to presenting oneself well, being able to speak comfortably in relationships such as school, family, places of interest.",
+        "description": "All parents want their children to express themselves well in Bengali as well as in English. At present, English language skills are required to present oneself smartly in all institutional, social and family situations. Those who are fluent in English from an early age find it relatively easy to master higher education subjects. What if your toddler could speak fluent English? The school teacher who spoke English fluently? To improve your child's English speaking skills, Edule has introduced Spoken English for Kids course."
+    },
+    {
+        "id": "9",
+        "category_id": "3",
+        "heading": "Negotiation Skills",
+        "price": "200",
+        "instructor": "Mr.Joseph",
+        "instructor_avater": "https://i.ibb.co/Y3yr2Jb/user-avatarteacher-a-teacher-in-a-suit-with-glasses-vector-id948490226-k-20-m-948490226-s-170667a-w.jpg",
+        "about": {
+            "point": "4.6",
+            "people": "6767"
+        },
+        "course_banner": "https://www.100pceffective.com/wp-content/uploads/og-negotiation-skills.jpg",
+        "curriculum": "Express your opinion with confidence.Patience and control of anger even when faced with difficulties or neglect.Finding and negotiating appropriate tradeoffs for negotiation,attentively to the other party and build rapport",
+        "description": "Your success in various stages of business and personal life largely depends on how you negotiate. Negotiation is the process of reaching an agreement through discussion. More broadly, it is a process in which conflict is resolved through negotiation and a compromise is reached.At almost every stage of life we ​need to discuss. This discussion with your parents may be about choosing a career of choice; Maybe to increase your salary, or ask your child to help with housework. If you can't negotiate properly for the decision you want, people more skilled than you will get priority in decision making."
+    },
+    {
+        "id": "10",
+        "category_id": "3",
+        "heading": "Leadership Excellence",
+        "price": "205",
+        "instructor": "Mr.Hashim",
+        "instructor_avater": "https://i.ibb.co/Y3yr2Jb/user-avatarteacher-a-teacher-in-a-suit-with-glasses-vector-id948490226-k-20-m-948490226-s-170667a-w.jpg",
+        "about": {
+            "point": "4.3",
+            "people": "6767"
+        },
+        "course_banner": "https://maxwell.cz/wp-content/uploads/2018/12/Achieving-Leadership-Excellence-9.jpg",
+        "curriculum": "How to develop the latent leadership qualities within yourself,Providing leadership in adverse situations,Influencing and motivating people by understanding their mindset and Mastering the essential habits to be a good leader",
+        "description": "Not only in the political or social field, but also in various situations around us, such as work or education, leadership qualities are very useful. Many people think that leadership is innate. But there are many who make themselves a leader out of the crowd through sincere efforts.Do you dream of becoming a leader? Teachers or mentors are advising you to improve your leadership but you don't understand how to learn this soft skill? Or, despite knowing the job well, not getting promoted to important positions due to lack of proper leadership skills? If so, then Edule brings you the 'Leadership Excellence' course. This course teaches excellent leadership qualities and skills using examples of various successful real-life leaders. You will learn from this course how to motivate subordinates or team members, how to understand human psychology and have a positive influence on them, or how to handle various adverse situations."
+    },
+    {
+        "id": "11",
+        "category_id": "3",
+        "heading": "Trade Sales",
+        "price": "215",
+        "instructor": "Mr.Roy",
+        "instructor_avater": "https://i.ibb.co/Y3yr2Jb/user-avatarteacher-a-teacher-in-a-suit-with-glasses-vector-id948490226-k-20-m-948490226-s-170667a-w.jpg",
+        "about": {
+            "point": "4.4",
+            "people": "3767"
+        },
+        "course_banner": "https://i.ibb.co/BqLjjFX/main-qimg-9c3f4a29669503c2c93abd49da7b0609-pjlq.jpg",
+        "curriculum": "How to Build a Long and Successful Career as a Salesperson,How to Give a Successful Sales Pitch,How to get a customer interested in buying your product.Techniques to properly discuss your product with people.Strategies to acquire the skills needed to become a successful salesperson.",
+        "description": "Are you interested in sales? Want to build your own career in the sales sector? Sales is one of the most demanding sectors in the world today, for which you need good pitching and knowledge of which products to pitch to which customers will benefit.Working as a salesperson can seem a bit daunting; Dealing with a certain number of people on a daily basis, demonstrating communication skills and demonstrating to others that you believe in your product. But because of the lack of communication skills, are you unable to work in sales?To start your journey as a salesperson, Edule has come up with this great course called 'Trade Sales', which will introduce you to all the closing techniques. The instructor of the course is Rajib Ahmed who is a sales development expert and corporate coach. Enroll in this course today to build a successful career in the sales sector!"
+    },
+    {
+        "id": "12",
+        "category_id": "4",
+        "heading": "Bank Jobs Course",
+        "price": "115",
+        "instructor": "Linkon",
+        "instructor_avater": "https://i.ibb.co/Y3yr2Jb/user-avatarteacher-a-teacher-in-a-suit-with-glasses-vector-id948490226-k-20-m-948490226-s-170667a-w.jpg",
+        "about": {
+            "point": "4.5",
+            "people": "8767"
+        },
+        "course_banner": "https://tradebrains.in/wp-content/uploads/2021/01/What-is-a-Bad-Bank-And-How-it-can-Revive-Banking-Sector-cover.jpg",
+        "curriculum": "Ways to complete preparation for bank job exam.Every topic of Bengali, English, Maths, General Knowledge and ICT with full explanation and Exam preparation guidance through live classes",
+        "description": "Bank job is one of the popular jobs among the youth of Bangladesh. The demand for this job has increased recently due to increased social respect, attractive salary, fast promotion and other benefits compared to many other jobs.You can apply for bank jobs only if you have a bachelor's degree in any subject. However, bank job exam pattern is slightly different as compared to other job exams, so you have to prepare accordingly. Bank job preparation should be started after graduation. Proper guidance is needed to ensure maximum preparation in this competitive era.Edule brings you 'Bank Jobs Course' to keep you ahead of the competition in bank job exams. Through the classes of this course students will get preparation guidance and solutions to various problems. The course analyzes previous year questions of bank recruitment exam. Which topics are more important and from which topics more questions are discussed."
+    },
+    {
+        "id": "13",
+        "category_id": "4",
+        "heading": "Government Job Preparation Basic Course",
+        "price": "120",
+        "instructor": "Donal Trump",
+        "instructor_avater": "https://i.ibb.co/Y3yr2Jb/user-avatarteacher-a-teacher-in-a-suit-with-glasses-vector-id948490226-k-20-m-948490226-s-170667a-w.jpg",
+        "about": {
+            "point": "4.1",
+            "people": "8767"
+        },
+        "course_banner": "https://i.ibb.co/5h7FvFj/download.jpg",
+        "curriculum": "Ways to Build a Subjective Strong Basic,Basic topics of each subject for government job preparation and Identifying weak topics by checking your preparation with tests",
+        "description": "Are you preparing for government jobs recruitment exam but not getting the desired success due to weakness in subject-wise basics? Edule brings you 'Government Job Preparation Basic Course', where our experienced instructors emphasize on strengthening your subject basics.Many aspirants struggle in this huge government job market due to weak subject-wise basics and lack of proper guidance. Their 'Government Job Preparation Basic Course' is designed with an easy solution to this problem."
+    },
+    {
+        "id": "15",
+        "category_id": "5",
+        "heading": "Mobile Photography",
+        "price": "Free",
+        "instructor": "Newton",
+        "instructor_avater": "https://i.ibb.co/Y3yr2Jb/user-avatarteacher-a-teacher-in-a-suit-with-glasses-vector-id948490226-k-20-m-948490226-s-170667a-w.jpg",
+        "about": {
+            "point": "4.2",
+            "people": "8767"
+        },
+        "course_banner": "https://i.ytimg.com/vi/LEU10rIzM4Q/maxresdefault.jpg",
+        "curriculum": "Everything from basic to intermediate level of mobile photography.How to make professional videos on mobile phone. to take beautiful photos on smartphone using simple tricks and strategies.Mobile photo and video editing techniques.",
+        "description": "Mobile photography is a very familiar term nowadays as everyone has a smartphone. And using this smartphone, many people are now taking such beautiful pictures that it beats even professional photographers. If you have a passion for photography, you can easily become a mobile photographer by mastering some techniques and strategies."
+    },
+    {
+        "id": "16",
+        "category_id": "5",
+        "heading": "Presentation & Public Speaking",
+        "price": "Free",
+        "instructor": "Watson",
+        "instructor_avater": "https://i.ibb.co/Y3yr2Jb/user-avatarteacher-a-teacher-in-a-suit-with-glasses-vector-id948490226-k-20-m-948490226-s-170667a-w.jpg",
+        "about": {
+            "point": "4.4",
+            "people": "9767"
+        },
+        "course_banner": "https://zoets.b-cdn.net/wp-content/uploads/2017/04/Public-Speaking-and-Presentation-Skills-Training-Course.png",
+        "curriculum": "Get the audience interested in what you are saying.Starting presentations, using transitions and ending presentations properly.Correct dress code and body language for presentations or speeches.Some very effective PowerPoint hacks.Ways to avoid weak speech",
+        "description": "In the 'Presentation and public speaking' course you will learn all the skills, techniques, tips and tricks you need for any important presentation or public speaking setting for free. Whether you have experience in this field or not, this course will definitely help you perfect your speaking skills. So if you want to be the best speaker or presenter, enroll now!"
+    }
+]

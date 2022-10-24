@@ -1,0 +1,26 @@
+[
+    {
+        "id": "01",
+        "name": "Kids' Courses"
+    },
+    {
+        "id": "02",
+        "name": "Skill Development"
+    },
+    {
+        "id": "03",
+        "name": "Professional Courses"
+    },
+    {
+        "id": "04",
+        "name": "Job Recruitment"
+    },
+    {
+        "id": "05",
+        "name": "Free Courses"
+    },
+    {
+        "id": "05",
+        "name": "All Courses"
+    }
+]
