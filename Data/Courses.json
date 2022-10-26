@@ -96,5 +96,33 @@
         "course_banner": "https://resources.codingal.com/hubfs/hero%20image.png",
         "curriculum": "An easy way to learn the intricacies of Javascript, HTML and CSS.Use of various functions, variables and logic blocks to build apps.Creating fun apps like adventure apps, timer apps and paint apps.The use of animation in game development and how to create games like Space Shooter and Gold Rush.How to effortlessly design an inventory tracker and social media site using HTML and CSS.",
         "description": "In this age of information technology, it is very important to teach children coding or programming from an early stage, which is done in most countries of the developed world. Computer programming will teach your child a new mathematical language, which will encourage creativity and innovation, strengthen the foundation of mathematics and teach them to implement decisions in a well-planned way.But typing the word 'programming' on the internet brings up a lot of information, which makes it quite difficult to find the right direction. So Edule brings 'Programming For Kids' course to teach your child programming in a fun way!"
+    },
+    {
+        "id": "8",
+        "heading": "Study Smart",
+        "price": "177",
+        "instructor": "Kylie jenner",
+        "instructor_avater": "https://i.ibb.co/18qfhtd/0x0.jpg",
+        "about": {
+            "point": "4.9",
+            "people": "6789"
+        },
+        "course_banner": "https://i.ibb.co/9pR2SXT/images-q-tbn-ANd9-Gc-QGKablk-Qb-Ecmgegxf6-EIhw-Akw48j0-G68-L5-Ww-usqp-CAU.jpg",
+        "curriculum": "How to finish reading fast.How to remember reading for a long time.Strategies to study regularly.Strategies to Increase Productivity Scientifically.If there is a deficit in education, there is a way to get out of that deficit",
+        "description": "'So-and-so studies for eight hours every day, and I also study for eight hours. Why does he get first in the exam, and I can't?' - Have you ever felt like this? Or, can't remember to sit in the exam hall after staying up all night studying at the table - has that happened?.We believe that only by studying more and more will the result be better But more effective and important than 'Study Hard' is 'Study Smart'. That is, instead of sitting at the table all the time and studying in the wrong way, if you study in the right way at the right time, you can get better results. Ten Minute School has come up with the ``Study Smart'' course to help with these smart study rules and study routines. This course teaches study rules, how to study routinely and how to remember studies."
+    },
+    {
+        "id": "9",
+        "heading": "Microsoft PowerPoint",
+        "price": "165",
+        "instructor": "Tom Cruise",
+        "instructor_avater": "https://i.ibb.co/HBS7rPg/b9fa5f81b1c04bbf439ef40515b1b6e464-tom-cruise-1x-rsquare-w1400.jpg",
+        "about": {
+            "point": "4.8",
+            "people": "6989"
+        },
+        "course_banner": "https://i.ibb.co/dkWhptK/powerpoint-1024x559.jpg",
+        "curriculum": "Make presentations with confidence in school-college, university, and corporate life by creating attractive slides with Microsoft PowerPoint.Data Visualization using Microsoft PowerPoint.Great hacks with graphics and animations in PowerPoint.Techniques for making 3D models starting from basic shapes.",
+        "description": "Slides are used as visual aids in presentations to keep the audience's attention on what the speaker is saying. If the slides are attractive, you can get good marks in the class presentation, as well as impress the boss or business partner in the office presentation.Don't understand how you too can dazzle everyone with a great presentation? If you also want to create attractive and professional presentations by learning 3D Animation-Graphics from the basic tools of Microsoft PowerPoint, then the “Microsoft PowerPoint” course is for you."
     }
 ]
